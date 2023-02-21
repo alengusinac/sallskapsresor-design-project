@@ -1,10 +1,15 @@
-## Om designen
+## Sällskapsresor
 
-Temat i detta projekt är resor med inspiration av Sällskapsresan. Sällskapsresan-filmerna utspelas sent 80-tal. Tanken är att typsnitt och färger ska kännas retro, passa in i 80/90-tals tema. Designen ska kännas ren och fräsh, inte för mycket plotter och för mycket text.
+A group school project where we had designed a website and handed of to another group and we got this design for Sällskapsresor from another group.
+The main objective of this project was to be able to communicate with other groups to handle design errors and details.
 
-Logotypen är inspirerad av Sun-Trips logotyp, starka färger som ska påminna om sol.
+### Tech stacks
 
-Vi har valt att använda oss av glada och starka färger för att förstärka känslan av "glad-charter-resenär". Det ska väckas ett sug efter paraplydrinkar, salta bad och bussresa med reseledare! 
+HTML\
+Sass\
 
+Vite\
+ESLint\
+GSAP\
+Swiper\
 
-HEJ
