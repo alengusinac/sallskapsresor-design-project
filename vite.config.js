@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
-// Test
+// Test1
 export default defineConfig({
   base: '/Sallskapsresor-design-project/',
   define: {
