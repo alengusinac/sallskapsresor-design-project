@@ -8,6 +8,8 @@ The main objective of this project was to be able to communicate with other grou
 HTML\
 Sass\
 
+#### DevTools
+
 Vite\
 ESLint\
 GSAP\
